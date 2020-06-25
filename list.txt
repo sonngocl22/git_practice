@@ -8,7 +8,11 @@ Asparagus
 
 MEAT
 Sausages
-
+Bacon
+Lamb
+Beef
+Pork
+Rabbit
 
 
 DAIRY
