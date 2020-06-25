@@ -16,7 +16,11 @@ Rabbit
 
 
 DAIRY
-
+Milk
+Eggs
+Yoghurt
+Butter
+Cheese
 
 
 
